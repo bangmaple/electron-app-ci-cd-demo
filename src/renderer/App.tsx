@@ -5,6 +5,7 @@ import './App.css';
 const Hello = () => {
   return (
     <div>
+      á
       <div className="Hello">
         <img width="200px" alt="icon" src={icon} />
       </div>
@@ -19,7 +20,7 @@ const Hello = () => {
             <span role="img" aria-label="books">
               📚
             </span>
-            Read our docs
+            Read our docss
           </button>
         </a>
         <a
